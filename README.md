@@ -10,12 +10,12 @@ This Power BI dashboard provides insights into e-commerce sales performance, cus
 - 📊 Customer demographics insights
 
 ## 🗂 Files
-- `Ecommerce_Sales_Dashboard.pbix` – Main Power BI file
-- `Data/` – Raw dataset files (if applicable)
-- `Documentation/` – Reports and notes
+- `PowerBi_Project1.pbix` – Main Power BI file
+- `Details.csv` and `Orders.csv` – Raw dataset files 
+-  Background Images.
 
 ## 🚀 Getting Started
-1. Download `Ecommerce_Sales_Dashboard.pbix`.
+1. Download the main Project file 
 2. Open it in **Power BI Desktop**.
 3. Connect to the dataset (if required).
 4. Explore the dashboard!
