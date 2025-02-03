@@ -12,7 +12,8 @@ This Power BI dashboard provides insights into e-commerce sales performance, cus
 ## 🗂 Files
 - `PowerBi_Project1.pbix` – Main Power BI file
 - `Details.csv` and `Orders.csv` – Raw dataset files 
--  Background Images.
+-  Background Image.
+-  Dashboard Image.
 
 ## 🚀 Getting Started
 1. Download the main Project file 
